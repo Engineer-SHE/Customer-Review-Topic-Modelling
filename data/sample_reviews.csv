@@ -1,0 +1,11 @@
+review_id,platform,review_text,rating
+1,Amazon,"Great taste and fast shipping! The packaging was solid.",5
+2,Yelp,"Service was slow and the staff forgot our drinks.",2
+3,Amazon,"Package arrived late and the box was damaged.",1
+4,Yelp,"Loved the ambiance and the desserts were delicious.",4
+5,Amazon,"Customer support resolved my issue quickly.",5
+6,Yelp,"Portions are small for the price. Food was okay.",3
+7,Amazon,"The product stopped working after a week. Bad quality.",1
+8,Yelp,"Fantastic brunch menu with fresh ingredients.",5
+9,Amazon,"Instructions were unclear and setup was frustrating.",2
+10,Yelp,"Waited 45 minutes for a table. Not worth it.",2
